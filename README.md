@@ -1,1 +1,3 @@
 # Whatsapp-Software-Architecture
+
+In today’s world, where most of our conversations happen online, WhatsApp has become a prominent messaging app used by billions of people worldwide. It helps people communicate and exchange messages every day. With such astronomical traffic, one can’t help but wonder how WhatsApp works, including its system design, software architecture, and technology. I present my analysis of how WhatsApp was able to handle so many concurrent users and messages, and the frameworks and programming languages enabled scalability while successfully leveraging its services to billions of users. This paper focuses on identifying and discussing key quality attributes and evaluates how WhatsApp’s architecture effectively addresses these critical aspects.
